@@ -1,5 +1,5 @@
 {
-  "name": "tc-map-server",
+  "name": "map-server-nodejs-template",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",

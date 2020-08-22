@@ -23,7 +23,7 @@ class Dashboard extends Component {
       <div>
       <Navbar>
         <Navbar.Group>
-          <Navbar.Heading>TC Maps</Navbar.Heading>
+          <Navbar.Heading>Map Blueprint Template</Navbar.Heading>
           <Navbar.Divider />
           <Button className="bp3-minimal" icon="home" text="Home" />
           <Button className="bp3-minimal" icon="document" text="Files" />
